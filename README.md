@@ -1,1 +1,2 @@
 # Stock-exchange-simulator
+## Description
