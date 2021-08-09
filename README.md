@@ -17,6 +17,7 @@ Selected cryptocurrencies: <br />
 - Bitcoin
 - Ethereum
 - Litecoin <br />
+<br />
 
 Results:
 ![Screenshot](exchange.png)
