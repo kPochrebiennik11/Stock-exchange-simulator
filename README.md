@@ -19,3 +19,4 @@ Selected cryptocurrencies: <br />
 - Litecoin
 <br />
 Results:
+![Screenshot](exchange.png)
