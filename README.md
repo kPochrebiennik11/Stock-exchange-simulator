@@ -12,7 +12,7 @@ Selected cryptocurrency exchanges: <br />
 - BINANCE
 - BITFINEX
 - BITBAY 
-<br />
+
 Selected cryptocurrencies: <br />
 - Bitcoin
 - Ethereum
